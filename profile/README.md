@@ -1,6 +1,6 @@
 # AVID README
 
-The **AI Vulnerabilities Database (AVID)** is an open-source project, housing a knowledge base of vulnerabilities for large-scale AI/ML models. There are two parts AVID: a taxonomy and a database. These efforts are complimentary to each other in enabling data scientists and ML engineers proactively screen their ML systems for potential harms in an efficient manner.
+The **AI Vulnerability Database (AVID)** is an open-source project, housing a knowledge base of vulnerabilities for large-scale AI/ML models. There are two parts AVID: a taxonomy and a database. These efforts are complimentary to each other in enabling data scientists and ML engineers proactively screen their ML systems for potential harms in an efficient manner.
 
 ## Taxonomy
 The AVID taxonomy consists of categories and subcategories of potential harms encompassing coordinates of trustworthy ML, such as fairness, robustness, privacy, explainablity, and reliability, and alignment. Similar to the [MITRE ATT&CK](http://attack.mitre.org/) framework for cybersecurity risks and [MITRE ATLAS](https://atlas.mitre.org/) for adversarial ML threats, the AVID taxonomy will set a common, open standard to evaluate ML systems for downstream responsible behavior. Compared to MITRE ATLAS which pertains to intentional _attacks_ on ML systems, the AVID taxonomy will cover the area of _ML failures_ that are often unintentional in nature.
